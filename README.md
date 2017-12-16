@@ -4,7 +4,7 @@
 A simple jQuery plugin to autocomplete a input text.
 
 ## Screenshots
-![Alt text](/screenshots/screenshot01.png?raw=true "Screenshot 01")
+![Screenshot01](/screenshots/screenshot01.png?raw=true "Screenshot 01")
 
 ## Author
 Dhiogo Boza - dhiogoboza@gmail.com
