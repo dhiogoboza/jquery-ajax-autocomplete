@@ -7,7 +7,7 @@ QUnit.test("jQuery test if exists", function(assert) {
 
 // test if $.fn.timeline is available
 QUnit.test("$.fn.autocomplete jquery function test if exists", function(assert) {
-  assert.ok($.fn.hotTrendsBubbles, "$.fn.autocomplete exists");
+  assert.ok($.fn.autocomplete, "$.fn.autocomplete exists");
 });
 
 QUnit.todo("$.fn.autocomplete test", function(assert) {
