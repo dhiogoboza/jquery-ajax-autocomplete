@@ -1,7 +1,7 @@
 {
-  "name": "jquery-hot-trends-bubbles",
+  "name": "jquery-ajax-autocomplete",
   "version": "0.0.1",
-  "description": "A jQuery plugin to display bubbles with sizes relative to topics relevance.",
+  "description": "A simple jQuery plugin to autocomplete a input text.",
   "author": "Dhiogo Boza",
   "license": "MIT",
   "devDependencies": {
