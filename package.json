@@ -1,0 +1,20 @@
+{
+  "name": "jquery-hot-trends-bubbles",
+  "version": "0.0.1",
+  "description": "A jQuery plugin to display bubbles with sizes relative to topics relevance.",
+  "author": "Dhiogo Boza",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-rename": "^1.2.2",
+    "opener": "^1.4.3"
+  },
+  "scripts": {
+    "build": "gulp",
+    "test": "opener ./test/index.html"
+  }
+}
